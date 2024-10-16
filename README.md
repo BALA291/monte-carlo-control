@@ -1,4 +1,4 @@
-# MONTE CARLO CONTROL ALGORITHM
+# EX-05 MONTE CARLO CONTROL ALGORITHM
 
 ## AIM
 To implement the Monte Carlo Control algorithm to optimize decision-making in a reinforcement learning environment by approximating the optimal action-value function.
